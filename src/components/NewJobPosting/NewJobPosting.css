@@ -1,0 +1,64 @@
+.contain {
+    margin-left: 21vw;
+}
+
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: #FFFFFF;
+}
+
+.fieldContainer {
+    margin-right: 1vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.formHead {
+    margin-left: 1.8vw !important;
+    /* padding-top: 4vw; */
+}
+.formRightHead {
+    margin-left: 1.8vw !important;
+    padding-top: 4vw;
+}
+
+.quill {
+
+    .ql-toolbar.ql-snow {
+
+        border-radius: 0.3vw 0.3vw 0 0;
+    }
+
+    .ql-container.ql-snow {
+        border-radius: 0 0 0.3vw 0.3vw;
+    }
+
+    .ql-editor {
+        height: calc(13.802vw - 60px);
+    }
+
+    .jobEditor .ql-toolbar.ql-snow {
+        display: none;
+    }
+    span.ql-formats:nth-child(0){
+        display: none;
+    }
+
+}
+
+.fontRight{
+    margin-left: 2vw;
+    padding-top: 0.8vw;
+}
+.rightSubhead{
+    font: 1vw;
+}
+.mContainer{
+    padding-left: 0px !important;
+}
+.mSubContainer{
+    padding-top: 1vw;
+}

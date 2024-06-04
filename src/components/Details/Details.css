@@ -1,0 +1,35 @@
+.mainCont{
+ background: #EEF1F4;   
+}
+.subMain{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: baseline; */
+
+    h5,p{
+        margin-left: 3vw;
+        font-weight: 600;
+    }
+    p{
+        color: #3C80BF;
+    }
+}
+.content{
+    margin: 2vw;
+}
+.cardBox{
+    display: flex;
+    justify-content: space-between;
+}
+.cardLeft{
+    display: flex;
+}
+.cardRight{
+    display: flex;
+    align-items: center;
+}
+.cardTypoBox{
+    display: flex;
+    flex-direction: column;
+    margin: 0vw 2vw;
+}

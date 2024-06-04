@@ -1,0 +1,17 @@
+.applicationH{
+    margin:  0;
+}
+.processing{
+    background: #CCECEB !important;
+    padding: 0.5vw 2vw;
+    border-radius: 0.4vw;
+}
+.applicationContain{
+    margin-top: 6vw;
+}
+.btns{
+    text-transform: none !important;
+    margin-bottom: 1vw !important;
+    padding: 0.8vw 2.7vw !important;
+    background: #5F6DB9 !important ;
+}

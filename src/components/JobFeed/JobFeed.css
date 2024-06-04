@@ -1,0 +1,39 @@
+.contain{
+    margin-left:21vw ; 
+}
+.JobH{
+    margin:  0;
+}
+.title{
+    font-size: 16px;
+    font-weight: 700;
+}
+.subTitle{
+    font-size: 12px;
+    font-weight: 600;
+}
+.dateTitle{
+    font-size: 13px;
+}
+.btnsL{
+    text-transform: none !important;
+    margin-bottom: 1vw !important;
+    margin-left: 0 !important;
+    padding: 0.8vw 2.6vw !important;
+    background: #EEF1F4 !important;
+    color: #545F71 !important;
+}
+.btnsA{
+    text-transform: none !important;
+    margin-bottom: 1vw !important;
+    padding: 0.8vw 2.7vw !important;
+    background: #5F6DB9 !important ;
+}
+.sticky {
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 0;
+    z-index: 1000; 
+    background-color: #FFFFFF;
+}
+  

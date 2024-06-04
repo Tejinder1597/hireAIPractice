@@ -1,0 +1,12 @@
+.listIem{
+    border-radius: 10px;
+}
+.logo{
+    background-image: url(../../assets/Logo.PNG);
+    height: 20px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.list{
+    margin: 0px 10px !important;
+}
